@@ -36,16 +36,8 @@ Enter 8-bit binary: 11001100
 Hex: CC
 ```
 
-## File Structure
-```
-📂 Bin2Hex
-   ├── bin2hex.asm   # Assembly source code
-   ├── README.md      # Project documentation
-   └── LICENSE        # (Optional) License file
-```
 
-## License
-This project is licensed under the MIT License. Feel free to modify and distribute!
+
 
 ## Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue in this repository.
