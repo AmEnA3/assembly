@@ -63,7 +63,7 @@ Hex: CC
 📂 Converters
    ├── bin2dec.asm   # Binary to Decimal converter
    ├── bin2hex.asm   # Binary to Hexadecimal converter
-   ├── hex2bin.asm  # 8-bit Binary to Hexadecimal converter
+   ├── hex2bin.asm  # Hexadecimal toBinary  converter
    ├── README.md      # Project documentation
    └── LICENSE        # (Optional) License file
 ```
